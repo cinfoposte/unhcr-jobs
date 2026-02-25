@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UNHCR Job Vacancies</title>
+    <link>https://unhcr.wd3.myworkdayjobs.com/en-GB/External</link>
+    <description>List of vacancies at UNHCR</description>
+    <language>en</language>
+    <atom:link href="https://cinfoposte.github.io/unhcr-jobs/unhcr_jobs.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 25 Feb 2026 00:00:00 +0000</pubDate>
+  </channel>
+</rss>
