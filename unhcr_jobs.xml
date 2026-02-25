@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>UNHCR Job Vacancies</title>
     <link>https://unhcr.wd3.myworkdayjobs.com/en-GB/External</link>
     <description>List of vacancies at UNHCR</description>
     <language>en</language>
     <atom:link href="https://cinfoposte.github.io/unhcr-jobs/unhcr_jobs.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Feb 2026 00:00:00 +0000</pubDate>
+    <pubDate>Wed, 25 Feb 2026 11:26:15 +0000</pubDate>
+    <item>
+      <title>Inspector General</title>
+      <link>https://unhcr.wd3.myworkdayjobs.com/en-GB/External/job/Geneva-Switzerland/Inspector-General_JR2561448-2</link>
+      <description><![CDATA[UNHCR has a vacancy for the position of Inspector General. Location: Geneva, Switzerland. Posted: Posted Yesterday.]]></description>
+      <guid isPermaLink="false">0499092980144349</guid>
+      <pubDate>Wed, 25 Feb 2026 11:25:50 +0000</pubDate>
+      <source url="https://unhcr.wd3.myworkdayjobs.com/en-GB/External">UNHCR Job Vacancies</source>
+    </item>
+    <item>
+      <title>Associate Data and Information Management Officer</title>
+      <link>https://unhcr.wd3.myworkdayjobs.com/en-GB/External/job/Belmopan-Belize/Associate-Data-and-Information-Management-Officer_JR2664666-1</link>
+      <description><![CDATA[UNHCR has a vacancy for the position of Associate Data and Information Management Officer. Location: Belmopan, Belize. Posted: Posted 2 Days Ago.]]></description>
+      <guid isPermaLink="false">9261329324928785</guid>
+      <pubDate>Wed, 25 Feb 2026 11:25:54 +0000</pubDate>
+      <source url="https://unhcr.wd3.myworkdayjobs.com/en-GB/External">UNHCR Job Vacancies</source>
+    </item>
   </channel>
 </rss>
